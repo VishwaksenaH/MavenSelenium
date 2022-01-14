@@ -1,4 +1,4 @@
-package verifygoogletest;
+/*package verifygoogletest;
 
 
 import org.openqa.selenium.By;
@@ -41,9 +41,9 @@ public class VerifygoogleTest {
 		{
 			driver.quit();
 		}
-}
+}*/
 
-/*import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
@@ -102,4 +102,4 @@ public class VerifygoogleTest {
 
 	
 	
-}*/
+}
